@@ -1,0 +1,9 @@
+[submodule "uelab.github.io"]
+	path = uelab.github.io
+	url = https://github.com/uelab/uelab.github.io
+[submodule "positech-cscw-2024.github.io"]
+	path = positech-cscw-2024.github.io
+	url = https://github.com/positech-cscw-2024/positech-cscw-2024.github.io
+[submodule "ssm0318.github.io"]
+	path = ssm0318.github.io
+	url = https://github.com/ssm0318/ssm0318.github.io
