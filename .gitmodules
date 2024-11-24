@@ -7,3 +7,6 @@
 [submodule "ssm0318.github.io"]
 	path = ssm0318.github.io
 	url = https://github.com/ssm0318/ssm0318.github.io
+[submodule "swpp2020-team8"]
+	path = swpp2020-team8
+	url = https://github.com/ssm0318/swpp2020-team8.git
